@@ -4,8 +4,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-const char* ssid = "Redmi-9";
-const char* password = "zelal-03";
+const char* ssid = "Your_wifi_name";
+const char* password = "Your_wifi_password";
 
 ESP8266WebServer server(80);
 
